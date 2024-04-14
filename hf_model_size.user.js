@@ -5,6 +5,7 @@
 // @description  Display model size for you on huggingface.
 // @author       JiangPQ
 // @match        https://huggingface.co/*
+// @match        https://hf-mirror.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=huggingface.co
 // @grant        none
 // ==/UserScript==
